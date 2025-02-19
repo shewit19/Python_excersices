@@ -1,0 +1,111 @@
+body{
+    font-family:Arial, sans-serif ;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(100, 55, 24);
+}
+.main-part{
+    background-color: peru;
+    margin: 30px;
+}
+header{
+    padding: 20px;
+    text-align: center;
+    
+}
+nav ul{
+    list-style-type: none;
+    padding: 0%;
+}
+nav ul li{
+    display: inline;
+    margin: 0 15px;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(247, 241, 236); 
+}
+.jpii{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.hhh{
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    color: rgb(135, 90, 32);
+}
+.aaa{
+    border-radius: 50%;
+   align-items: center;
+}
+
+.sa{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 40vh;
+
+    
+}
+
+.shh{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 40vh;
+    
+}
+.ee{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 40vh;
+    
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(100, 55, 24);
+}
+.girl{
+   display: inline;
+    justify-content: space-between;
+}
+
+.qq{
+    width: 110px;
+    text-align: center;
+    color: rgb(234, 185, 113);
+    
+}
+.hero{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    
+}
+
+.skin{
+    justify-content: center;
+    background-color: rgba(173, 97, 47, 0.616);
+    margin: 20px;
+
+}
+.fo{
+    text-align: center;
+    display: inline;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    }
+
+.skin-img{
+    border-radius: 30%;
+}
+.end{
+    text-align: left;
+}

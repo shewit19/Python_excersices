@@ -1,0 +1,2 @@
+# empty array type
+number 
